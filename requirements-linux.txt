@@ -1,0 +1,4 @@
+jupyter==1.0.0
+gradio==3.23.0
+https://github.com/abetlen/llama-cpp-python/releases/download/v0.1.35/llama_cpp_python-0.1.35-cp39-cp39-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+

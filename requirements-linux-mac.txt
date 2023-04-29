@@ -1,3 +1,0 @@
-jupyter==1.0.0
-gradio==3.23.0
-llama-cpp-python==0.1.35
